@@ -1,6 +1,7 @@
 #include "sdt.h"
 #include <iostream>
 
+//Ёто учебна€ программа
 int main() {
     int a, b;
     std::cout << "¬ведите два целых числа: ";
