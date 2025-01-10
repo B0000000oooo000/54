@@ -5,6 +5,6 @@ int main() {
     int a, b;
     std::cout << "Ââåäèòå äâà öåëûõ ÷èñëà: ";
     std::cin >> a >> b;
-    std::cout << "Ñóììà: " << a + b << std::endl;
+    std::cout << "Ñóììà: " << a - b << std::endl;
     return 0;
 }
