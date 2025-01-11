@@ -7,5 +7,6 @@ int main() {
     std::cout << "¬ведите два целых числа: ";
     std::cin >> a >> b;
     std::cout << "—умма: " << a - b << std::endl;
+    std::cout << "„астное: " << a / b << std::endl;
     return 0;
 }
